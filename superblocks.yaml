@@ -7,7 +7,7 @@ jobs:
   compile:
     image: node
     script:
-      - echo Hello world!eaa
+      - echo Hello There
   test:
     image: node
     script:
