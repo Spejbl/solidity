@@ -9,7 +9,7 @@ Solidity is a statically typed, contract-oriented, high-level language for imple
 - [Example](#example)
 - [Documentation](#documentation)
 - [Development](#development)
-- [Maintainers](#maintainers)
+- [Maintainers](#maintainers)a
 - [License](#license)
 
 ## Background
