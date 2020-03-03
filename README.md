@@ -19,7 +19,7 @@ that run on the Ethereum Virtual Machine. Smart contracts are programs that are 
 network where nobody has special authority over the execution and thus they allow to implement tokens of value,
 ownership, voting and other kinds of logics.
 
-## Build and Install
+## Build and Installdsf
 
 Instructions about how to build and install the Solidity compiler can be found in the [Solidity documentation](https://solidity.readthedocs.io/en/latest/installing-solidity.html#building-from-source)
 
