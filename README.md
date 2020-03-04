@@ -1,4 +1,4 @@
-# The Solidity Contract-Oriented Programming Languageeeeeeefdsff
+# The Solidity Contract-Oriented Programming Languageeeeeeefdsffsd
 [![Join the chat at https://gitter.im/ethereum/solidity](https://badges.gittee.im/Join%20Chat.svg)](https://gitter.im/ethereum/solidity?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) [![Build Status](https://travis-ci.org/ethereum/solidity.svg?branch=develop)](https://travis-ci.org/ethereum/solidity)
 Solidity is a statically typed, contract-oriented, high-level language for implementing smart contracts on the Ethereum platform.dafadf
 dsf
